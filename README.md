@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mritunjayjha526" target="blank"><img src="https://img.shields.io/twitter/follow/mritunjayjha526?logo=twitter&style=for-the-badge" alt="mritunjayjha526" /></a> </p>
 
-- 🌱 I’m currently learning **Software development**
+- 🌱 I’m currently learning **Android development**
 
 - 📝 I regularly write articles on [https://www.mritunjayjha.com/](https://www.mritunjayjha.com/)
 
