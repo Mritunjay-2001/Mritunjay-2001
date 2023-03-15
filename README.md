@@ -1,6 +1,6 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://www.mritunjayjha.io)
 <h1 align="center">Hi 👋, I'm Mritunjay Jha</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/98106764/172807020-cafb42e8-76b1-4a34-9ca3-28549de62547.png)">
 
 
