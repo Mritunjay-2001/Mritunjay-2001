@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://www.mritunjayjha.com/](https://www.mritunjayjha.com/)
 
-- 💬 Ask me about **Android , Web Dev , Frontend and Backend**
+- 💬 Ask me about **Android Devlopment **
 
 - 📫 How to reach me **mritunjayjha526@gmail.com**
 
