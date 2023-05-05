@@ -31,3 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mritunjay-2001&" alt="mritunjay-2001" /></p>
 
+## Snake eating my contribution graph
+![snake gif](https://github.com/mritunjay-2001/mritunjay-2001/blob/output/github-contribution-grid-snake.gif)
